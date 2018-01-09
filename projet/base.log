@@ -1,0 +1,198 @@
+Exporter version: 5.5.0, Blender version: 2.78 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used:
+		selected layers only:  false
+		flat shading entire scene:  false
+		inline textures:  false
+		texture directory:  C:\wamp64\www\projet\
+	Python World class constructor completed
+	processing begun of mesh:  _______018
+		processing begun of Standard material:  Mtl-Nickel
+		processing begun of Standard material:  Glass-Clear
+		processing begun of Standard material:  Mtl-Iron
+		processing begun of Standard material:  Surface-Paint__f
+		processing begun of Standard material:  Wood-Oak
+		processing begun of Standard material:  Mtl-Chrome
+		processing begun of Standard material:  _23_black
+		processing begun of Standard material:  _6_White
+		processing begun of Standard material:  Mtl-Stainless_St
+		processing begun of Standard material:  Wd_Siding_Light
+		processing begun of Standard material:  PEN_MATERIAL4
+		processing begun of Standard material:  Metal-Aluminium
+		processing begun of Standard material:  Surf-White
+		processing begun of Standard material:  Surf-Porcelain
+		processing begun of Standard material:  Paint-14
+		processing begun of Standard material:  Metal-Zinc
+		processing begun of Standard material:  GDLM31_ooo
+		processing begun of Standard material:  BC52_Anthracite
+		processing begun of Standard material:  GDLM35_antracite
+		processing begun of Standard material:  GDLM36_ivory
+		processing begun of Standard material:  S20_blue
+		processing begun of Standard material:  S14_grey
+		processing begun of Standard material:  Surf-Fabric
+		processing begun of Standard material:  Surf-Fabric_Stri
+		processing begun of multimaterial:  base.Multimaterial#0
+		num positions      :  24359
+		num normals        :  24359
+		num uvs            :  48718
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72969
+		WARNING: # of 0 area faces found:  123
+	processing begun of mesh:  _______017
+		registered as also a user of material:  Wood-Oak
+		num positions      :  60270
+		num normals        :  60270
+		num uvs            :  120540
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  194997
+		WARNING: # of 0 area faces found:  325
+	processing begun of mesh:  _______016
+		registered as also a user of material:  Wood-Oak
+		processing begun of Standard material:  Surface-Plaster_
+		processing begun of Standard material:  GDLM51_Mat_1
+		processing begun of multimaterial:  base.Multimaterial#1
+		num positions      :  58160
+		num normals        :  58160
+		num uvs            :  116320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  194997
+		WARNING: # of 0 area faces found:  99
+	processing begun of mesh:  _______015
+		registered as also a user of material:  Surface-Plaster_
+		num positions      :  64998
+		num normals        :  64998
+		num uvs            :  129996
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  64998
+	processing begun of mesh:  _______014
+		registered as also a user of material:  Wood-Oak
+		registered as also a user of material:  Surface-Plaster_
+		processing begun of multimaterial:  base.Multimaterial#2
+		num positions      :  64998
+		num normals        :  64998
+		num uvs            :  129996
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  64998
+	processing begun of mesh:  _______013
+		processing begun of Standard material:  GDLM82_Mat_2
+		processing begun of Standard material:  GDLM65_Mat_1
+		processing begun of Standard material:  GDLM66_Mat_2
+		processing begun of Standard material:  GDLM67_Mat_3
+		processing begun of Standard material:  GDLM68_Mat_4
+		processing begun of Standard material:  GDLM72_Mat_9
+		processing begun of Standard material:  GDLM80_Mat_1
+		registered as also a user of material:  Surface-Plaster_
+		processing begun of multimaterial:  base.Multimaterial#3
+		num positions      :  64998
+		num normals        :  64998
+		num uvs            :  129996
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  194616
+		WARNING: # of 0 area faces found:  23714
+	processing begun of mesh:  _______012
+		registered as also a user of material:  GDLM82_Mat_2
+		registered as also a user of material:  GDLM65_Mat_1
+		registered as also a user of material:  GDLM66_Mat_2
+		registered as also a user of material:  GDLM67_Mat_3
+		registered as also a user of material:  GDLM68_Mat_4
+		processing begun of Standard material:  GDLM70_Steelbrus
+		processing begun of Standard material:  GDLM71_pult
+		registered as also a user of material:  GDLM72_Mat_9
+		processing begun of Standard material:  GDLM73_Mat_4
+		processing begun of Standard material:  GDLM74_black
+		processing begun of Standard material:  GDLM75_Mat_8
+		processing begun of Standard material:  GDLM76_Mat_6
+		processing begun of Standard material:  GDLM77_Mat_5
+		processing begun of Standard material:  GDLM78_Mat_3
+		processing begun of Standard material:  GDLM79_Mat_7
+		registered as also a user of material:  GDLM80_Mat_1
+		processing begun of multimaterial:  base.Multimaterial#4
+		num positions      :  45243
+		num normals        :  45243
+		num uvs            :  90486
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  194997
+		WARNING: # of 0 area faces found:  23149
+	processing begun of mesh:  _______0114
+		registered as also a user of material:  Mtl-Nickel
+		processing begun of Standard material:  Paint-09
+		registered as also a user of material:  Mtl-Stainless_St
+		processing begun of Standard material:  Floor-Carpet_Blu
+		processing begun of Standard material:  Paint-05
+		registered as also a user of material:  GDLM82_Mat_2
+		processing begun of multimaterial:  base.Multimaterial#5
+		num positions      :  35456
+		num normals        :  35456
+		num uvs            :  70912
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  194997
+		WARNING: # of 0 area faces found:  26267
+	processing begun of mesh:  _______0113
+		registered as also a user of material:  Wood-Oak
+		processing begun of Standard material:  _36_Plain_black
+		processing begun of multimaterial:  base.Multimaterial#6
+		num positions      :  1296
+		num normals        :  1296
+		num uvs            :  2592
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1944
+	processing begun of mesh:  _______0112
+		processing begun of Standard material:  Wd-Pine_Horizont
+		registered as also a user of material:  Mtl-Nickel
+		processing begun of Standard material:  Paint-01
+		registered as also a user of material:  Surface-Paint__f
+		registered as also a user of material:  Wood-Oak
+		registered as also a user of material:  Mtl-Chrome
+		processing begun of Standard material:  Wood-Parquet
+		processing begun of Standard material:  Wd-Oak
+		registered as also a user of material:  _23_black
+		processing begun of Standard material:  Paint-04
+		registered as also a user of material:  _6_White
+		processing begun of Standard material:  S18_green
+		processing begun of Standard material:  Rietveld_Lino
+		processing begun of Standard material:  JD_grey___S4502-
+		processing begun of Standard material:  Surface-Plastic
+		processing begun of Standard material:  S24_purple
+		registered as also a user of material:  _36_Plain_black
+		processing begun of Standard material:  Glass-Blue
+		processing begun of multimaterial:  base.Multimaterial#7
+		num positions      :  7350
+		num normals        :  7350
+		num uvs            :  14700
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  22302
+	processing begun of mesh:  _______011
+		processing begun of Standard material:  Surface-White
+		registered as also a user of material:  Wd-Pine_Horizont
+		registered as also a user of material:  Mtl-Nickel
+		registered as also a user of material:  Glass-Clear
+		registered as also a user of material:  Mtl-Iron
+		registered as also a user of material:  Paint-01
+		registered as also a user of material:  Surface-Paint__f
+		processing begun of Standard material:  Surface-Ceramics
+		processing begun of Standard material:  Paint-03
+		registered as also a user of material:  Paint-09
+		processing begun of Standard material:  Brick-HerringBon
+		processing begun of multimaterial:  base.Multimaterial#8
+		num positions      :  53373
+		num normals        :  53373
+		num uvs            :  106746
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  115755
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of light (POINT):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  1 min, 42.5871 secs
